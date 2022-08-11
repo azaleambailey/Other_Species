@@ -1,4 +1,7 @@
 ## Sunfish Graphs
+(This data was collected by TIDES for the New York State Department of Environmental Conservation.)
+
+([https://hrnerr.org/tides/])
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
