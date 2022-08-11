@@ -1,5 +1,7 @@
 ## Sunfish Graphs
-This data was collected by TIDES for the New York State Department of Environmental Conservation.
+This data was analyzed by Azalea Bailey and collected by TIDES for the New York State Department of Environmental Conservation in association with the American Fisheries Society Hutton Scholar Program.
+
+[Azalea Bailey](https://www.linkedin.com/in/azalea-bailey-2620681b2/)
 
 [TIDES](https://hrnerr.org/tides/)
 
